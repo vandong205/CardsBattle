@@ -1,0 +1,61 @@
+<Cards>
+  <!-- Spades (♠) suitId = 0 -->
+  <Card rank="2" suitId="0"/>
+  <Card rank="3" suitId="0"/>
+  <Card rank="4" suitId="0"/>
+  <Card rank="5" suitId="0"/>
+  <Card rank="6" suitId="0"/>
+  <Card rank="7" suitId="0"/>
+  <Card rank="8" suitId="0"/>
+  <Card rank="9" suitId="0"/>
+  <Card rank="10" suitId="0"/>
+  <Card rank="J" suitId="0"/>
+  <Card rank="Q" suitId="0"/>
+  <Card rank="K" suitId="0"/>
+  <Card rank="A" suitId="0"/>
+
+  <!-- Hearts (♥) suitId = 1 -->
+  <Card rank="2" suitId="1"/>
+  <Card rank="3" suitId="1"/>
+  <Card rank="4" suitId="1"/>
+  <Card rank="5" suitId="1"/>
+  <Card rank="6" suitId="1"/>
+  <Card rank="7" suitId="1"/>
+  <Card rank="8" suitId="1"/>
+  <Card rank="9" suitId="1"/>
+  <Card rank="10" suitId="1"/>
+  <Card rank="J" suitId="1"/>
+  <Card rank="Q" suitId="1"/>
+  <Card rank="K" suitId="1"/>
+  <Card rank="A" suitId="1"/>
+
+  <!-- Diamonds (♦) suitId = 2 -->
+  <Card rank="2" suitId="2"/>
+  <Card rank="3" suitId="2"/>
+  <Card rank="4" suitId="2"/>
+  <Card rank="5" suitId="2"/>
+  <Card rank="6" suitId="2"/>
+  <Card rank="7" suitId="2"/>
+  <Card rank="8" suitId="2"/>
+  <Card rank="9" suitId="2"/>
+  <Card rank="10" suitId="2"/>
+  <Card rank="J" suitId="2"/>
+  <Card rank="Q" suitId="2"/>
+  <Card rank="K" suitId="2"/>
+  <Card rank="A" suitId="2"/>
+
+  <!-- Clubs (♣) suitId = 3 -->
+  <Card rank="2" suitId="3"/>
+  <Card rank="3" suitId="3"/>
+  <Card rank="4" suitId="3"/>
+  <Card rank="5" suitId="3"/>
+  <Card rank="6" suitId="3"/>
+  <Card rank="7" suitId="3"/>
+  <Card rank="8" suitId="3"/>
+  <Card rank="9" suitId="3"/>
+  <Card rank="10" suitId="3"/>
+  <Card rank="J" suitId="3"/>
+  <Card rank="Q" suitId="3"/>
+  <Card rank="K" suitId="3"/>
+  <Card rank="A" suitId="3"/>
+</Cards>
