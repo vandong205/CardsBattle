@@ -10,7 +10,7 @@
 # Library folder: Contains asset databases, caches, and other generated files.
 # It is regenerated when a project is opened in Unity.
 /[Ll]ibrary/
-
+.vs/
 # Temp folder: Stores temporary build files and intermediate data.
 /[Tt]emp/
 
